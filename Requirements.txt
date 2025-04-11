@@ -1,1 +1,5 @@
-pip install streamlit torch torchvision matplotlib pillow
+streamlit 
+torch 
+torchvision 
+matplotlib 
+pillow
